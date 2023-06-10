@@ -1,0 +1,14 @@
+Add=1
+Sub=2
+Mul=3
+Div=4
+Integer=5
+WS=6
+ERROR_CHAR=7
+UNCLOSE_STRING=8
+ILLEGAL_ESCAPE=9
+UNTERMINATED_COMMENT=10
+'+'=1
+'-'=2
+'*'=3
+'/'=4
