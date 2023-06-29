@@ -23,6 +23,6 @@ for module in modules:
 
         os.system(
             f'''
-            cd "{td}/{module}/{example}/FinalProgram" && python main.py testcase.txt
+            cd "{td}/{module}/{example}/FinalProgram" && python run.py testcase.txt
             '''
         )
